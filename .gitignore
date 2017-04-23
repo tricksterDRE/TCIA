@@ -1,0 +1,6 @@
+# DB production config
+config/db.php
+
+# PHP errors log from anywhere
+*php_errors.log
+errors.log
